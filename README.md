@@ -9,3 +9,7 @@ npm run typecheck
 npm run build
 ```
 
+## Preview
+
+![RainDocket preview](docs/screenshot.png)
+
